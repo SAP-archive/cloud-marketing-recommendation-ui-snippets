@@ -17,7 +17,7 @@ With the help of the HTML code snippet, and mandatory parameters, the sample Jav
 ## Download and Installation
 
 1. Clone the repository to your local environment.
-2. Use the html tag <script> inside your HTML page to include the JavaScript file reco_product_script.js. Refer to [snippet_example.html](https://github.com/SAP/cloud-marketing-recommendation-ui-snippets/blob/master/main/snippet_example.html)
+2. Use the html tag <script> inside your HTML page to include the JavaScript file reco_product_carousel.js. Refer to [snippet_example.html](https://github.com/SAP-samples/cloud-marketing-recommendation-ui-snippets/blob/master/main/snippet_example.html)
 
 ## Configuration
 
