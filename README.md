@@ -1,5 +1,7 @@
 # SAP Cloud Platform Recommendations Snippet
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/cloud-marketing-recommendation-ui-snippets)](https://api.reuse.software/info/github.com/SAP-samples/cloud-marketing-recommendation-ui-snippets)
+
 Sample of HTML/JS/CSS snippet to integrate the SAP Marketing Recommendation Cache service on SAP Cloud Platform.
 
 ## Description
